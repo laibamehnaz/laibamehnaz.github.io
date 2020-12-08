@@ -3,7 +3,7 @@ You can use the [editor on GitHub](https://github.com/laibamehnaz/laibamehnaz.gi
 
 I am laiba mehnaz, and I am a Research Assistant in MIDAS-IIITD. 
 
-![Image of Laiba](images/ProfilePhoto_Github.jpg)
+![Image of Laiba](https://github.com/laibamehnaz/laibamehnaz.github.io/images/ProfilePhoto_Github.jpg)
 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
