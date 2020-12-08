@@ -2,9 +2,8 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[Publications](./publications-page.html). [CV](./publications-page.html). [Reading](./publications-page.html).
 
 There should be whitespace between paragraphs.
 
