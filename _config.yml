@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
-permalink: /:categories/:year/:month/:title/
+##permalink: /:categories/:year/:month/:title/
 title: Laiba Mehnaz
-description: 
-
+description: This is my personal website, covering my work, and my life outside of work. :)
+#logo: []
