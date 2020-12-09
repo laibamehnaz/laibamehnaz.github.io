@@ -9,4 +9,4 @@ layout: default
 <br>
 <br>
 <br>
-Hi! I am Laiba Mehnaz. I am currently working as a Research Assistant in MIDAS-IIITD under Dr. Rajiv Ratn Shah. I have recently completed my B.Tech in Software Engineering from DTU in June 2020. Those four years will be my most cherished years of my life.  
+Hi! I am Laiba Mehnaz. I am currently working as a Research Assistant in MIDAS-IIITD under Dr. Rajiv Ratn Shah. I have recently completed my B.Tech in Software Engineering from DTU in June 2020. Those four years will be my most cherished years of my life. :relaxed: 
