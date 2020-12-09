@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-## Publications   &nbsp; &nbsp; &nbsp; &nbsp; <space> &nbsp; &nbsp;    [Home](./)                                                                
+## Publications  &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;      [Home](./)                                                                
 
 ***Laiba Mehnaz***. (2020). Automatic classification of tweets mentioning a medication using pre-trained sentence
 encoders. *In Proceedings of the Workshop on Social Media Mining for Health Applications, Barcelona, Spain,
