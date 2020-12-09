@@ -11,7 +11,8 @@ layout: default
 <br> A book that I should have read a few hours back 😅. But anyways, better late than never. Also, please don't confuse this with *made to stick*. This book is strictly about how we learn for better retention, and for using knowledge from different contexts to different conetxts. Still reading it, only 1/3rd is over till now.
 <br>
 <br>
-<img src="/Book Covers/TheBiggestBluff.jpg" width="150" height="230">
+<img src="/Book Covers/NonObviousTrends.jpg" width="150" height="230">
+<br> This book is just so powerful. Because of this book I have started reading several reports predicting the future trends in anything whatsoever. It's just a wonderful state to be in when you are in the process of decision making. Just strated, will update when I finish the book. 😅
 
 ### Past reads
 
