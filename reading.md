@@ -10,7 +10,10 @@ layout: default
 
 <img src="/Book Covers/CreativeSuperpowers.png" width="150" height="230">
 <br> I loved the way the book was structured. Amongst the four superpowers(maker, hacker, teacher, and thief), *teaching* resonated with me the most. I realised how much I was underestimating the power of *making* while I was reading the book, and I have decided to work on this aspect. And most importantly, there are these exercises given in the end which are extremely useful. I honestly also love the tacky coverpage. :p
-
+<br>
+<br>
+<img src="/Book Covers/TheBiggestBluff.jpg" width="150" height="230">
+<br> This is one of the books that's closest to my heart. Started reading at a very low point in my life, and there couldn't have been a better solution to my problems than this book. My perpective of life changed quite a lot after reading this book.
 <!---
 ![Creative Superpowers!](/Book Covers/CreativeSuperpowers.png "Creative Superpowers")
 -->
