@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Reading list 
+## Reading list  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;     &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;      [Home](./)
 <br>
 This list is not complete and it's still getting updated. 😅
 <br>But more importantly, huge thanks to the amazing authors who are inspiring just so many people. 💛💛
