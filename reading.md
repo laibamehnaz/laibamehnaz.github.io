@@ -3,5 +3,6 @@ layout: default
 ---
 
 ## Reading list 
-<img src="https://github.com/laibamehnaz/laibamehnaz.github.io/blob/main/Book%20Covers/CreativeSuperpowers.png" height="12" width="24">
+
 ![Creative Superpowers!](/Book Covers/CreativeSuperpowers.png "Creative Superpowers")
+Super interesting book, love the way it's structured. Amongst the four superpowers, making resonated with me the most. There are tons of exercises given in the end which are extremely useful.
