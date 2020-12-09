@@ -26,7 +26,7 @@ This list is not complete and it's still getting updated. 😅
 <br>
 <br>
 <img src="/Book Covers/NakedStatistics.png" width="150" height="230">
-<br>Chose this book from the list of must reads for becoming a data scientist 😂, well, when I was in that phase. This book should be a must for *anybody*, I could buils a strong intuition behind the concepts of statistics only because of this book. Love the conceptof the series, adding *naked money* and *naked economics* to the list. ☺️
+<br>Chose this book from the list of must reads for becoming a data scientist 😂, well, when I was in that phase. This book should be a must for *anybody*, I could buils a strong intuition behind the concepts of statistics only because of this book. Love the conceptof the series, adding *naked money* and *naked economics* to the list. 😍
 
 
 <!---
