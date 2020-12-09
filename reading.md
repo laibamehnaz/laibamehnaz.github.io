@@ -4,10 +4,12 @@ layout: default
 
 ## Reading list 
 <br>
+### Currently reading
+<br>
 <br>
 <img src="/Book Covers/MakeItStick.jpg" width="150" height="230">
 <br> A book that I should have read a few hours back 😅. But anyways, better late than never. Also, please don't confuse this with *made to stick*. This book is strictly about how we learn for better retention, and for using knowledge from different contexts to different conetxts. Still reading it, only 1/3rd is over till now.
-### Currently reading
+
 
 ### Past reads
 
