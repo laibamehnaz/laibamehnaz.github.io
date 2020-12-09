@@ -4,9 +4,10 @@ layout: default
 
 ## Reading list 
 
-#### Currently reading
+### Currently reading
 
-#### Past
+### Past
+### Yet to be completed....
 
 ![Creative Superpowers!](/Book Covers/CreativeSuperpowers.png "Creative Superpowers")
 <br>Super interesting book, love the way it's structured. Amongst the four superpowers, making resonated with me the most. There are tons of exercises given in the end which are extremely useful.
