@@ -13,4 +13,4 @@ Using domain adversarial training we reduce the distance(MMD) between the source
 <br>
 ## Using Transfer Learning for Drug Detection from Tweets &nbsp;   
 Using the SMM4H 2020 Shared Task dataset, I carried out an analysis of the performance of different pretrained sentence encoders on automatic classification of tweets mentioning a drug, that differ in size, pretraining objective, and pretraining data. This was submitted as my thesis in my final year during my undergrad. 
-### [[pdf]](https://drive.google.com/file/d/1YpfY46jRYPDNcXw1ed93RuCKEU7rZoOX/view?usp=sharing)
+###  [[pdf]](https://drive.google.com/file/d/1YpfY46jRYPDNcXw1ed93RuCKEU7rZoOX/view?usp=sharing)
