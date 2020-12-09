@@ -11,3 +11,23 @@ December 2020. The 28th International Conference on Computational Linguistics.* 
 
 ***Laiba Mehnaz*** and Rajni Jindal. (2020). Using Transfer Learning for detecting drug mentions in tweets.
 *Accepted in the Fifth International Conference on ICT for Sustainable Development. Goa, India.* <a href="https://drive.google.com/file/d/1cwxRTEvt21S5vuL-0fCVRFFRSH_p8V8K/view?usp=sharing" target="_blank">[Paper]</a>
+
+Sarthak Anand, Debanjan Mahata, Haimin Zhang, Simra Shahid, ***Laiba Mehnaz***, Yaman Kumar, Rajiv Ratn
+Shah. (2019). MIDAS@SMM4H-2019: Identifying Adverse Drug Reactions and Personal Health Experience
+Mentions from Twitter. *In Proceedings of the Workshop on Social Media Mining for Health Applications,
+Florence, Italy, July 2019. Association for Computational Linguistics.* [[Paper]](https://www.aclweb.org/anthology/W19-3223/). <a href="laibamehnaz.github.io/smm4h_poster (1).pdf" target="_blank">[Poster]</a>
+
+Haimin Zhang, Debanjan Mahata, Simra Shahid, ***Laiba Mehnaz***, Sarthak Anand, Yaman Kumar, Rajiv Ratn
+Shah, Karan Uppal. (2019). *MIDAS at SemEval-2019 Task 6: Identifying Offensive Posts and Targeted Offense
+from Twitter. In Proceedings of the International Workshop of Semantic Evaluation collocated with
+NAACL-HLT 2019, Minneapolis, USA.* [[Paper]](https://www.aclweb.org/anthology/S19-2122/).
+
+Sarthak Anand, Debanjan Mahata, Kartik Aggarwal, ***Laiba Mehnaz***, Simra Shahid, Haimin Zhang, Yaman
+Kumar, Rajiv Ratn Shah, Karan Uppal. (2019). MIDAS at SemEval-2019 Task 9: Suggestion Mining from
+Online Reviews using ULMFiT. *In Proceedings of the International Workshop of Semantic Evaluation collocated
+with NAACL-HLT 2019, Minneapolis, USA.*  [[Paper]](https://www.aclweb.org/anthology/S19-2213/).
+
+Puneet Mathur, Meghna Ayyar, Sahil Chopra, Simra Shahid, ***Laiba Mehnaz***, Rajiv Ratn Shah. (2019).
+Identification of Emergency Blood Donation Request on Twitter. *In Proceedings of the 3rd Workshop on Social
+Media Mining for Health Applications held in conjunction with Empirical Methods in Natural Language
+Processing, EMNLP 2018.*  [[Paper]](https://www.aclweb.org/anthology/W18-5907/).
