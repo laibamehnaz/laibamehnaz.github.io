@@ -4,7 +4,8 @@ layout: default
 
 ## Reading list 
 <br>
-
+This list is not complete and it's still getting updated. 😅
+<br>But more importantly, huge thanks to the amazing authors who are inspiring just so many people. 💛💛
 ### Currently reading
 
 <img src="/Book Covers/MakeItStick.jpg" width="150" height="230">
