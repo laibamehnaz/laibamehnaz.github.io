@@ -13,7 +13,7 @@ layout: default
 <br>
 <br>
 <img src="/Book Covers/TheBiggestBluff.jpg" width="150" height="230">
-<br> This is one of the books that's closest to my heart. Started reading at a very low point in my life, and there couldn't have been a better solution to my problems than this book. My perpective of life changed quite a lot after reading this book.
+<br> This is one of the books that's closest to my heart. Started reading at a very low point in my life, and there couldn't have been a better solution to my problems than this book. My perpective of life changed quite a lot after reading this book. There are just so many gems in this book, and I would recommend everyone to read it. But if I had to point to one thing that stuck with me the most was that *you can win with the worst hand and you can lose with the best hand*. 
 <!---
 ![Creative Superpowers!](/Book Covers/CreativeSuperpowers.png "Creative Superpowers")
 -->
