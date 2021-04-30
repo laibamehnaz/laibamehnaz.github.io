@@ -2,4 +2,4 @@ theme: jekyll-theme-minimal
 ##permalink: /:categories/:year/:month/:title/
 title: Laiba Mehnaz
 
-logo: laibamehnaz.github.io/images/ProfilePhoto_Github_final.jpg
+logo: /assets/img/logo.png
