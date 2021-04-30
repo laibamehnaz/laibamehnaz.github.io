@@ -1,1 +1,1 @@
-<embed src="https://username.github.io/mydoc.pdf" type="application/pdf"/>
+<embed src="https://github.com/laibamehnaz/laibamehnaz.github.io/assets/LaibaMehnaz_Resume_2021.pdf" type="application/pdf"/>
