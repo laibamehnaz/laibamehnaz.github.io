@@ -6,7 +6,7 @@ layout: default
 
 <!--<a href="laibamehnaz.github.io/LaibaMehnaz_Resume_2021.pdf" target="_blank"></a>--!>
 
-## [Publications](./publication.html) &nbsp;   &nbsp; [Projects](./projects.html) &nbsp;    &nbsp; <<embed src="https://sumanbogati.github.io/sample.pdf" type="application/pdf" />CV &nbsp;    &nbsp; [Reading](./reading.html)   &nbsp;    &nbsp; [Blogs](./Blogs.html)
+## [Publications](./publication.html) &nbsp;   &nbsp; [Projects](./projects.html) &nbsp;    &nbsp; <embed src="https://sumanbogati.github.io/sample.pdf" type="application/pdf" />CV &nbsp;    &nbsp; [Reading](./reading.html)   &nbsp;    &nbsp; [Blogs](./Blogs.html)
  [Twitter](https://twitter.com/LaibaMehnaz)  &nbsp;    &nbsp;  [Linkedin](https://www.linkedin.com/in/laiba-mehnaz-a81455158/)
 
 <br>
