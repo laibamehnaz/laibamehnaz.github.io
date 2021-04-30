@@ -5,7 +5,7 @@ layout: default
 
 
 
-## [Publications](./publication.html) &nbsp;   &nbsp; [Projects](./projects.html) &nbsp;    &nbsp; <a href="/assets/img/ProfilePhoto_Github_final.jpg" target="_blank">CV </a> &nbsp;    &nbsp; [Reading](./reading.html)   &nbsp;    &nbsp; [Blogs](./Blogs.html)
+## [Publications](./publication.html) &nbsp;   &nbsp; [Projects](./projects.html) &nbsp;    &nbsp; <a href="/assets/img/LaibaMehnaz_Resume2021.pdf" target="_blank">CV </a> &nbsp;    &nbsp; [Reading](./reading.html)   &nbsp;    &nbsp; [Blogs](./Blogs.html)
  [Twitter](https://twitter.com/LaibaMehnaz)  &nbsp;    &nbsp;  [Linkedin](https://www.linkedin.com/in/laiba-mehnaz-a81455158/)
 
 <br>
