@@ -3,7 +3,16 @@ layout: default
 ---
 
 
-## Publications  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;     &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;      [Home](./)                                                                
+## Publications  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;     &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;      [Home](./)       
+
+***Laiba Mehnaz***, Debanjan Mahata, Rakesh Gosangi, Uma Sushmitha Gunturi, Riya Jain, Gauri Gupta,
+Amardeep Kumar, Isabelle Lee, Anish Acharya, Rajiv Ratn Shah. (2021). GupShup: An Annotated Corpus for
+Abstractive Summarization of Open-Domain Code-Switched Conversations. *ArXiv, abs/2104.08578*.  [[Paper]](https://arxiv.org/abs/2104.08578)
+
+Abhinav Ramesh Kashyap, ***Laiba Mehnaz***, Bhavitvya Malik, Abdul Waheed, Devamanyu Hazarika, Min-Yen
+Kan, Rajiv Ratn Shah. (2021). Analyzing the Domain Robustness of Pretrained Language Models, Layer by
+Layer. *In Proceedings of the Second Workshop on Domain Adaptation for NLP. The 16th Conference of the
+European Chapter of the Association for Computational Linguistics.* [[Paper]](https://www.aclweb.org/anthology/2021.adaptnlp-1.23/)
 
 ***Laiba Mehnaz***. (2020). Automatic classification of tweets mentioning a medication using pre-trained sentence
 encoders. *In Proceedings of the Workshop on Social Media Mining for Health Applications, Barcelona, Spain,
