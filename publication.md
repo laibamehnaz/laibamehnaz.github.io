@@ -5,9 +5,11 @@ layout: default
 
 ## Publications  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;     &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;      [Home](./)       
 
-***Laiba Mehnaz***, Debanjan Mahata, Rakesh Gosangi, Uma Sushmitha Gunturi, Riya Jain, Gauri Gupta,
-Amardeep Kumar, Isabelle Lee, Anish Acharya, Rajiv Ratn Shah. (2021). GupShup: An Annotated Corpus for
-Abstractive Summarization of Open-Domain Code-Switched Conversations. *In Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP)*.  [[Paper]](https://arxiv.org/abs/2104.08578)
+“GupShup: An Annotated Corpus for Abstractive Summarization of Open-Domain Code-Switched
+Conversations.”
+EMNLP-2021, Dominican Republic.
+***Laiba Mehnaz***, Debanjan Mahata, Rakesh Gosangi, Uma Sushmitha Gunturi, Riya Jain, Gauri Gupta, Amardeep
+Kumar, Isabelle Lee, Anish Acharya, Rajiv Ratn Shah.  [[Paper]](https://aclanthology.org/2021.emnlp-main.499/) [[Code]](https://github.com/midas-research/gupshup)
 
 Abhinav Ramesh Kashyap, ***Laiba Mehnaz***, Bhavitvya Malik, Abdul Waheed, Devamanyu Hazarika, Min-Yen
 Kan, Rajiv Ratn Shah. (2021). Analyzing the Domain Robustness of Pretrained Language Models, Layer by
